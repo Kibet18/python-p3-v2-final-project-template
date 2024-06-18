@@ -24,8 +24,8 @@ Git clone https://github.com/Kibet18/python-p3-v2-final-project-template
 
 
 
-# Live Link
-[Git](gh-pages link)
+# Live Link - presentation link
+https://drive.google.com/file/d/1PR6dVWJO29OIHUJK9CnMaUki4ukBcVIr/view
 
 ## Technologies used
 SQlite 3
