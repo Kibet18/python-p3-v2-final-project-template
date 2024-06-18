@@ -6,8 +6,12 @@
 
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
-
+A command-line interface (CLI) application designed to streamline the management of brands, users, orders, and products within a shop. Built with Python and SQLite, this system provides essential CRUD (Create, Read, Update, Delete) functionalities to efficiently handle shop operations.
+## Features
+Brand Management: Add, update, delete, and list brands.
+User Management: Add, update, delete, and list users.
+Order Management: Add, update, delete, and list orders.
+Product Management: Add, update, delete, and list products.
 ## Installation
 You use git clone to be able to download the documents in the GitHub
 
